@@ -1,0 +1,14 @@
+ticket_list=[2345,5667,7889,5455]
+print(ticket_list)
+print(ticket_list[1])
+ticket_list[1]=9090
+print(ticket_list)
+sample_list=[]
+print(sample_list)
+print(len(sample_list))
+sample_list=[10]*5
+print(sample_list)
+list1=[1,2,3]
+list2=[4,5,6]
+list3=list1+list2
+print(list3)
